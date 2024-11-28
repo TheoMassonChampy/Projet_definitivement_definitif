@@ -20,7 +20,7 @@ public:
                 error_marker = true;
             }
             else {
-                std::cout << "La valeur doit être un nombre positif !";  
+                std::cout << "La valeur doit être un nombre positif !";
             }
         }
     }
