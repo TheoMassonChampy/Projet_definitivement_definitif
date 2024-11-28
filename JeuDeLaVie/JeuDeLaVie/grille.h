@@ -1,6 +1,10 @@
 #pragma once
+#include <iostream>
 
 class Grille {
+private:
+    int temp, h, l;
+    cout << "\nHauteur de la grille ? : ";
 public:
     int lignes, colonnes;
     std::cout << "Combien de lignes souhaites-tu : ";
