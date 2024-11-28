@@ -4,6 +4,10 @@
 
 class Fenetre {
 private:
+	sf::RectangleShape ligne_v_1;
+	sf::RectangleShape ligne_v_2;
+	sf::RectangleShape ligne_h_1;
+	sf::RectangleShape ligne_h_2;
 	sf::Font arial;
 public:
 	Jeu jeu;
@@ -13,5 +17,4 @@ public:
 
 	void click(sf::Event::MouseButtonEvent mouseEvent);
 	void afficherGrille();
-	void afficherEtat();
 };
