@@ -130,10 +130,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="fenetre.cpp" />
+    <ClCompile Include="grille.cpp" />
+    <ClCompile Include="jeu.cpp" />
     <ClCompile Include="JeuDeLaVie.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="etat_case.h" />
     <ClInclude Include="Fenetre.h" />
+    <ClInclude Include="grille.h" />
+    <ClInclude Include="jeu.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
