@@ -1,1 +1,4 @@
 JeuDeLaVie\.vs\*
+JeuDeLaVie\.vs\**
+.vs\**
+.vs\*
