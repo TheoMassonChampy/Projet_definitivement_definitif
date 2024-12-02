@@ -27,14 +27,14 @@ public:
                 break;
             }
             else {
-                std::cout << "La valeur doit être un nombre positif !";
+                std::cout << "La valeur doit ï¿½tre un nombre positif !";
             }
         }
         std::vector<EtatCase> grille;
         grille.resize(largeur * hauteur, EtatCase::MORT);
 
-        taille_grille = largeur * hauteur;
-        return grille;
+
+        return ;
     }
     
 
