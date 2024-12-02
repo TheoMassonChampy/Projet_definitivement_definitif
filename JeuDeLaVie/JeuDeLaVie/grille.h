@@ -1,6 +1,7 @@
 #pragma once
 #include <iostream>
 #include <vector>
+#include "etat_case.h"
 
 
 class Grille {
@@ -8,7 +9,7 @@ public:
     int l, h;
     bool error_marker = false;
 
-    std::vector<short> grille_def() {
+    std::vector<EtatCase> grille_def() {
         while (!error_marker) {
             std::cout << "Donnez la hauteur de la grille : ";
             std::cin >> h;
@@ -29,13 +30,14 @@ public:
                 std::cout << "La valeur doit être un nombre positif !";
             }
         }
-        std::vector<short> grille(l * h);
+        std::vector<EtatCase> grille;
+        grille.resize(l * h, EtatCase::MORT);
 
         return grille;
 
     }
 
-    std::vector<short> grille = grille_def();
+    std::vector<EtatCase> grille = grille_def();
 
     //int lignes, colonnes;
     //std::cout << "Combien de lignes souhaites-tu : ";
