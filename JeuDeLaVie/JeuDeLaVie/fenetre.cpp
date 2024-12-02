@@ -18,16 +18,14 @@ Fenetre::Fenetre() : window(sf::VideoMode(800, 600), "Jeu de la vie !") {
 void Fenetre::afficherGrille()
 {
 	sf::Vector2u size = window.getSize();
+	sf::RectangleShape rectangle(sf::Vector2f(50.0f, 150.0f));
 
-	for (int x = 0; x < jeu.grille.size(); x++)
-	{
-		sf::Text text;
+	for (int x = 0; x < grille.taille_grille; x++) {
 		if (jeu.grille.grille[x] == EtatCase::VIVANT) {
-			sf::RectangleShape rectangle(sf::Vector2f(grille.largeur, 150)); // Dimensions du rectangle (largeur, hauteur)
 			rectangle.setFillColor(sf::Color::White);
 		}
 		else if (jeu.grille.grille[x] == EtatCase::MORT) {
-			
+			rectangle.setFillColor(sf::Color::Black);
 		}
 
 		window.draw(rectangle);

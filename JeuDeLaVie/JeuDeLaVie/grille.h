@@ -34,8 +34,8 @@ public:
         grille.resize(largeur * h, EtatCase::MORT);
 
         return grille;
-
     }
+    
 
     std::vector<EtatCase> grille = grille_def();
 
