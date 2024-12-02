@@ -6,14 +6,14 @@
 
 class Grille {
 public:
-    int l, h;
+    int largeur, hauteur, taille_grille;
     bool error_marker = false;
 
     std::vector<EtatCase> grille_def() {
         while (!error_marker) {
             std::cout << "Donnez la hauteur de la grille : ";
-            std::cin >> h;
-            if (h != 0) {
+            std::cin >> hauteur;
+            if (hauteur != 0) {
                 break;
             }
             else {
@@ -22,16 +22,16 @@ public:
         }
         while (!error_marker) {
             std::cout << "Donnez la largeur de la grille : ";
-            std::cin >> l;
-            if (l != 0) {
+            std::cin >> largeur;
+            if (largeur != 0) {
                 break;
             }
             else {
-                std::cout << "La valeur doit être un nombre positif !";
+                std::cout << "La valeur doit ï¿½tre un nombre positif !";
             }
         }
         std::vector<EtatCase> grille;
-        grille.resize(l * h, EtatCase::MORT);
+        grille.resize(largeur * hauteur, EtatCase::MORT);
 
 
         return ;
