@@ -1,10 +1,8 @@
 ﻿  fenetre.cpp
   grille.cpp
+C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(20,33): error C2039: 'taille_grille' n'est pas membre de 'Grille'
+      C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\grille.h(6,8):
+      voir la déclaration de 'Grille'
+  
   jeu.cpp
   Génération de code en cours...
-JeuDeLaVie.obj : error LNK2005: "public: __cdecl Fenetre::Fenetre(void)" (??0Fenetre@@QEAA@XZ) déjà défini(e) dans fenetre.obj
-JeuDeLaVie.obj : error LNK2005: "public: void __cdecl Fenetre::afficherGrille(void)" (?afficherGrille@Fenetre@@QEAAXXZ) déjà défini(e) dans fenetre.obj
-JeuDeLaVie.obj : error LNK2005: "public: void __cdecl Fenetre::click(struct sf::Event::MouseButtonEvent)" (?click@Fenetre@@QEAAXUMouseButtonEvent@Event@sf@@@Z) déjà défini(e) dans fenetre.obj
-JeuDeLaVie.obj : error LNK2005: "int lignes" (?lignes@@3HA) déjà défini(e) dans fenetre.obj
-JeuDeLaVie.obj : error LNK2005: "int colonnes" (?colonnes@@3HA) déjà défini(e) dans fenetre.obj
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\x64\Debug\JeuDeLaVie.exe : fatal error LNK1169: un ou plusieurs symboles définis à différentes reprises ont été rencontrés
