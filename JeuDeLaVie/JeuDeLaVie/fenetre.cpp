@@ -43,29 +43,23 @@ void Fenetre::afficherGrille()
 
 	sf::Vector2u size = window.getSize();
 
-	for (int x = 0; x < 3; x++)
-		for (int y = 0; y < 3; y++)
-		{
-			if (jeu.grille.grille[x][y] == EtatCase::VIVANT) {
-				sf::Text text;
-				text.setString("1");
-				text.setCharacterSize(24);
-				text.setColor(sf::Color::Blue);
-				text.getGlobalBounds();
-				window.draw(text);
-			}
-			else if (jeu.grille.grille[x][y] == EtatCase::MORT) {
-				sf::Text text;
-				text.setString("0");
-				text.setCharacterSize(24);
-				text.setColor(sf::Color::Red);
-				text.getGlobalBounds();
-				window.draw(text);
-			}
-
+	for (int x = 0; x < grille.size(); x++)
+	{
+		sf::Text text;
+		if (jeu.grille.grille[x] == EtatCase::VIVANT) {
+			text.setString("1");
+			text.setCharacterSize(24);
+			text.setFillColor(sf::Color::Blue);
 		}
+		else if (jeu.grille.grille[x] == EtatCase::MORT) {
+			text.setString("0");
+			text.setCharacterSize(24);
+			text.setFillColor(sf::Color::Red);
+		}
+		text.setPosition("1" * 30, 0);  // Ajustez la position selon la taille des cases
 
-}
+		window.draw(text);
+	}
 
 void Fenetre::click(sf::Event::MouseButtonEvent mouseEvent)
 {
@@ -75,12 +69,5 @@ void Fenetre::click(sf::Event::MouseButtonEvent mouseEvent)
 		int x = mouseEvent.x / (size.x / 3);
 		int y = mouseEvent.y / (size.y / 3);
 		std::cout << x << "," << y << std::endl;
-		if (jeu.place(x, y, jeu.tour)) {
-			if (jeu.tour == EtatCase::X)
-				jeu.tour = EtatCase::VIVANT;
-			else
-				jeu.tour = EtatCase::MORT;
-			EtatJeu etat = jeu.checkFin();
-			}
 	}
 }
