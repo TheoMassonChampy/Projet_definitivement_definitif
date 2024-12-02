@@ -1,9 +1,9 @@
 #include "grille.h"
 #include "etat_case.h"
-#include "Grille.h"
 
 // Définition du constructeur
 Grille::Grille() : largeur(0), hauteur(0), taille_grille(0) {
+
 }
 
 std::vector<EtatCase> Grille::grille_def() {
@@ -30,7 +30,28 @@ std::vector<EtatCase> Grille::grille_def() {
     // Initialisation de la grille avec des cases MORT
     std::vector<EtatCase> grille;
     grille.resize(largeur * hauteur, EtatCase::MORT);
-
     taille_grille = largeur * hauteur;
+    for (int i = 0; i < taille_grille; i++) {
+        std::cout << "" ,grille[i];
+        std::cout << i << std::endl;
+    }
+
     return grille;
+}
+
+std::vector<int> Grille::return_grille() {
+    std::vector<int> res;
+    res.resize(Grille::taille_grille, 0);
+        for (int i = 0; i < Grille::taille_grille; i++) {
+            if (Grille::grille[i] == EtatCase::MORT)
+            {
+                res[i] = 0;
+            }
+
+            else if (Grille::grille[i] == EtatCase::VIVANT)
+            {
+                res[i] = 1;
+            }
+        } //TODO à revoir
+        return res;
 }

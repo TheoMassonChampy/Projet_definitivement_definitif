@@ -7,13 +7,14 @@
 class Grille {
 private:
     std::vector<EtatCase> grille_def();
+    std::vector<int> return_grille();
 
 public:
     int largeur, hauteur, taille_grille;
     std::vector<EtatCase> grilledejeu;
 
     // Déclaration de la méthode grille_def
-    std::vector<EtatCase> grille;
+    std::vector<EtatCase> grille = grille_def();
 
     Grille();  // Déclaration du constructeur
 
