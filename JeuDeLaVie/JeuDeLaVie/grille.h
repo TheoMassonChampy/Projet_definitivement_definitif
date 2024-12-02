@@ -35,7 +35,7 @@ public:
 
     }
 
-
+    std::vector<short> grille = grille_def();
 
     //int lignes, colonnes;
     //std::cout << "Combien de lignes souhaites-tu : ";
