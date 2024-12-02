@@ -6,14 +6,14 @@
 
 class Grille {
 public:
-    int largeur, h;
+    int largeur, hauteur, taille_grille;
     bool error_marker = false;
 
     std::vector<EtatCase> grille_def() {
         while (!error_marker) {
             std::cout << "Donnez la hauteur de la grille : ";
-            std::cin >> h;
-            if (h != 0) {
+            std::cin >> hauteur;
+            if (hauteur != 0) {
                 break;
             }
             else {
@@ -31,8 +31,9 @@ public:
             }
         }
         std::vector<EtatCase> grille;
-        grille.resize(largeur * h, EtatCase::MORT);
+        grille.resize(largeur * hauteur, EtatCase::MORT);
 
+        taille_grille = largeur * hauteur;
         return grille;
     }
     

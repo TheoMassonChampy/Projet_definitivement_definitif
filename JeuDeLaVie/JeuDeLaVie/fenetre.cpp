@@ -1,5 +1,5 @@
 #include "fenetre.h"
-#include "grille.h"
+#include "grille.h" 
 #include "etat_case.h"
 #include <iostream>
 
@@ -20,7 +20,7 @@ void Fenetre::afficherGrille()
 	sf::Vector2u size = window.getSize();
 	sf::RectangleShape rectangle(sf::Vector2f(50.0f, 150.0f));
 
-	for (int x = 0; x < grille.taille_grille; x++) {
+	for (int x = 0; x < jeu.grille.taille_grille; x++) {
 		if (jeu.grille.grille[x] == EtatCase::VIVANT) {
 			rectangle.setFillColor(sf::Color::White);
 		}
@@ -28,7 +28,7 @@ void Fenetre::afficherGrille()
 			rectangle.setFillColor(sf::Color::Black);
 		}
 
-		window.draw(rectangle);
+		window.draw(rectangle); 
 	}
 }
 
