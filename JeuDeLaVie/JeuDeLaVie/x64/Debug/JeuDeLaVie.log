@@ -1,216 +1,85 @@
 ﻿  fenetre.cpp
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(17,50): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(17,50): warning C4244:         with
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(17,50): warning C4244:         [
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(17,50): warning C4244:             T=unsigned int
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(17,50): warning C4244:         ]
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(17,50): warning C4244:         and
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(17,50): warning C4244:         [
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(17,50): warning C4244:             T=float
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(17,50): warning C4244:         ]
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(19,34): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(19,34): warning C4244:         with
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(19,34): warning C4244:         [
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(19,34): warning C4244:             T=unsigned int
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(19,34): warning C4244:         ]
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(21,50): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(21,50): warning C4244:         with
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(21,50): warning C4244:         [
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(21,50): warning C4244:             T=unsigned int
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(21,50): warning C4244:         ]
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(21,50): warning C4244:         and
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(21,50): warning C4244:         [
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(21,50): warning C4244:             T=float
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(21,50): warning C4244:         ]
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(23,45): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(23,45): warning C4244:         with
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(23,45): warning C4244:         [
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(23,45): warning C4244:             T=unsigned int
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(23,45): warning C4244:         ]
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,50): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,50): warning C4244:         with
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,50): warning C4244:         [
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,50): warning C4244:             T=unsigned int
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,50): warning C4244:         ]
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,50): warning C4244:         and
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,50): warning C4244:         [
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,50): warning C4244:             T=float
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,50): warning C4244:         ]
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(28,31): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(28,31): warning C4244:         with
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(28,31): warning C4244:         [
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(28,31): warning C4244:             T=unsigned int
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(28,31): warning C4244:         ]
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(31,50): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(31,50): warning C4244:         with
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(31,50): warning C4244:         [
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(31,50): warning C4244:             T=unsigned int
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(31,50): warning C4244:         ]
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(31,50): warning C4244:         and
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(31,50): warning C4244:         [
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(31,50): warning C4244:             T=float
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(31,50): warning C4244:         ]
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(33,44): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(33,44): warning C4244:         with
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(33,44): warning C4244:         [
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(33,44): warning C4244:             T=unsigned int
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(33,44): warning C4244:         ]
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(46,26): error C2275: « sf::Vector2u » : expression attendue au lieu d’un type
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(46,40): error C2059: erreur de syntaxe : ';'
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(46,45): error C2059: erreur de syntaxe : ')'
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(48,4): error C2059: erreur de syntaxe : 'if'
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(48,50): error C2143: erreur de syntaxe : absence de ';' avant '{'
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(56,4): error C2181: instruction else sans if correspondant non conforme
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(56,34): error C2677: '==' binaire : aucun opérateur global trouvé qui accepte le type 'EtatCase' (ou il n'existe aucune conversion acceptable)
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(67,1): error C2059: erreur de syntaxe : '}'
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(67,1): error C2143: erreur de syntaxe : absence de ';' avant '}'
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(68,16): error C2143: erreur de syntaxe : absence de ')' avant ';'
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(68,20): error C2143: erreur de syntaxe : absence de ';' avant '<'
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(68,18): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(68,20): error C2059: erreur de syntaxe : '<'
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(68,44): error C2143: erreur de syntaxe : absence de ';' avant '++'
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(68,43): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(68,43): error C2086: 'int x' : redéfinition
-      C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(68,18):
-      voir la déclaration de 'x'
+C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(22,33): error C2039: 'size' n'est pas membre de 'Grille'
+      C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\grille.h(7,7):
+      voir la déclaration de 'Grille'
   
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(68,44): error C2059: erreur de syntaxe : '++'
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(68,46): error C2059: erreur de syntaxe : ')'
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(69,2): error C2143: erreur de syntaxe : absence de ';' avant '{'
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(69,2): error C2447: '{' : en-tête de fonction manquant (liste formelle à l'ancien format ?)
+C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,46): error C2065: 'grille' : identificateur non déclaré
+C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,45): error C2440: '<function-style-cast>' : impossible de convertir de 'int' en 'sf::Vector2f'
+      C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,45):
+      'sf::Vector2<float>::Vector2' : aucune fonction surchargée n’a pu convertir tous les types d’arguments.
+          C:\SFML-2.6.2\include\SFML\System\Vector2.hpp(77,1):
+          est peut-être 'sf::Vector2<float>::Vector2(sf::Vector2<float> &&)'
+              C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,45):
+              'sf::Vector2<float>::Vector2(sf::Vector2<float> &&)' : impossible de convertir l'argument 1 de 'int' en 'sf::Vector2<float> &&'
+                  C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,62):
+                  Raison : impossible de convertir de 'int' en 'sf::Vector2<float>'
+          C:\SFML-2.6.2\include\SFML\System\Vector2.hpp(77,1):
+          ou       'sf::Vector2<float>::Vector2(const sf::Vector2<float> &)'
+              C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,45):
+              'sf::Vector2<float>::Vector2(const sf::Vector2<float> &)' : impossible de convertir l'argument 1 de 'int' en 'const sf::Vector2<float> &'
+                  C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,62):
+                  Raison : impossible de convertir de 'int' en 'const sf::Vector2<float>'
+          C:\SFML-2.6.2\include\SFML\System\Vector2.hpp(56,5):
+          ou       'sf::Vector2<float>::Vector2(T,T)'
+          with
+          [
+              T=float
+          ]
+              C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,45):
+              'sf::Vector2<float>::Vector2' : la fonction ne prend pas 1 arguments
+          C:\SFML-2.6.2\include\SFML\System\Vector2.hpp(47,5):
+          ou       'sf::Vector2<float>::Vector2(void)'
+              C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,45):
+              'sf::Vector2<float>::Vector2' : la fonction ne prend pas 1 arguments
+          C:\SFML-2.6.2\include\SFML\System\Vector2.hpp(70,5):
+          ou       'sf::Vector2<float>::Vector2(const sf::Vector2<U> &)'
+          C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,45):
+          lors de la tentative de mise en correspondance de la liste des arguments '(int)'
+  
+C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(33,15): error C2065: 'rectangle' : identificateur non déclaré
   JeuDeLaVie.cpp
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(17,50): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(17,50): warning C4244:         with
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(17,50): warning C4244:         [
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(17,50): warning C4244:             T=unsigned int
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(17,50): warning C4244:         ]
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(17,50): warning C4244:         and
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(17,50): warning C4244:         [
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(17,50): warning C4244:             T=float
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(17,50): warning C4244:         ]
+C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(22,33): error C2039: 'size' n'est pas membre de 'Grille'
+  (compiler le fichier source 'JeuDeLaVie.cpp')
+      C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\grille.h(7,7):
+      voir la déclaration de 'Grille'
+  
+C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,46): error C2065: 'grille' : identificateur non déclaré
   (compiler le fichier source 'JeuDeLaVie.cpp')
   
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(19,34): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(19,34): warning C4244:         with
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(19,34): warning C4244:         [
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(19,34): warning C4244:             T=unsigned int
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(19,34): warning C4244:         ]
+C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,45): error C2440: '<function-style-cast>' : impossible de convertir de 'int' en 'sf::Vector2f'
   (compiler le fichier source 'JeuDeLaVie.cpp')
+      C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,45):
+      'sf::Vector2<float>::Vector2' : aucune fonction surchargée n’a pu convertir tous les types d’arguments.
+          C:\SFML-2.6.2\include\SFML\System\Vector2.hpp(77,1):
+          est peut-être 'sf::Vector2<float>::Vector2(sf::Vector2<float> &&)'
+              C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,45):
+              'sf::Vector2<float>::Vector2(sf::Vector2<float> &&)' : impossible de convertir l'argument 1 de 'int' en 'sf::Vector2<float> &&'
+                  C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,62):
+                  Raison : impossible de convertir de 'int' en 'sf::Vector2<float>'
+          C:\SFML-2.6.2\include\SFML\System\Vector2.hpp(77,1):
+          ou       'sf::Vector2<float>::Vector2(const sf::Vector2<float> &)'
+              C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,45):
+              'sf::Vector2<float>::Vector2(const sf::Vector2<float> &)' : impossible de convertir l'argument 1 de 'int' en 'const sf::Vector2<float> &'
+                  C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,62):
+                  Raison : impossible de convertir de 'int' en 'const sf::Vector2<float>'
+          C:\SFML-2.6.2\include\SFML\System\Vector2.hpp(56,5):
+          ou       'sf::Vector2<float>::Vector2(T,T)'
+          with
+          [
+              T=float
+          ]
+              C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,45):
+              'sf::Vector2<float>::Vector2' : la fonction ne prend pas 1 arguments
+          C:\SFML-2.6.2\include\SFML\System\Vector2.hpp(47,5):
+          ou       'sf::Vector2<float>::Vector2(void)'
+              C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,45):
+              'sf::Vector2<float>::Vector2' : la fonction ne prend pas 1 arguments
+          C:\SFML-2.6.2\include\SFML\System\Vector2.hpp(70,5):
+          ou       'sf::Vector2<float>::Vector2(const sf::Vector2<U> &)'
+          C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,45):
+          lors de la tentative de mise en correspondance de la liste des arguments '(int)'
   
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(21,50): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(21,50): warning C4244:         with
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(21,50): warning C4244:         [
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(21,50): warning C4244:             T=unsigned int
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(21,50): warning C4244:         ]
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(21,50): warning C4244:         and
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(21,50): warning C4244:         [
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(21,50): warning C4244:             T=float
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(21,50): warning C4244:         ]
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-  
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(23,45): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(23,45): warning C4244:         with
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(23,45): warning C4244:         [
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(23,45): warning C4244:             T=unsigned int
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(23,45): warning C4244:         ]
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-  
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,50): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,50): warning C4244:         with
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,50): warning C4244:         [
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,50): warning C4244:             T=unsigned int
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,50): warning C4244:         ]
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,50): warning C4244:         and
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,50): warning C4244:         [
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,50): warning C4244:             T=float
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(26,50): warning C4244:         ]
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-  
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(28,31): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(28,31): warning C4244:         with
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(28,31): warning C4244:         [
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(28,31): warning C4244:             T=unsigned int
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(28,31): warning C4244:         ]
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-  
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(31,50): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(31,50): warning C4244:         with
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(31,50): warning C4244:         [
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(31,50): warning C4244:             T=unsigned int
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(31,50): warning C4244:         ]
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(31,50): warning C4244:         and
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(31,50): warning C4244:         [
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(31,50): warning C4244:             T=float
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(31,50): warning C4244:         ]
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-  
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(33,44): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(33,44): warning C4244:         with
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(33,44): warning C4244:         [
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(33,44): warning C4244:             T=unsigned int
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(33,44): warning C4244:         ]
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-  
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(46,26): error C2275: « sf::Vector2u » : expression attendue au lieu d’un type
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-  
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(46,40): error C2059: erreur de syntaxe : ';'
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-  
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(46,45): error C2059: erreur de syntaxe : ')'
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-  
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(48,4): error C2059: erreur de syntaxe : 'if'
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-  
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(48,50): error C2143: erreur de syntaxe : absence de ';' avant '{'
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-  
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(56,4): error C2181: instruction else sans if correspondant non conforme
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-  
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(56,34): error C2677: '==' binaire : aucun opérateur global trouvé qui accepte le type 'EtatCase' (ou il n'existe aucune conversion acceptable)
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-  
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(67,1): error C2059: erreur de syntaxe : '}'
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-  
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(67,1): error C2143: erreur de syntaxe : absence de ';' avant '}'
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-  
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(68,16): error C2143: erreur de syntaxe : absence de ')' avant ';'
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-  
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(68,20): error C2143: erreur de syntaxe : absence de ';' avant '<'
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-  
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(68,18): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-  
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(68,20): error C2059: erreur de syntaxe : '<'
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-  
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(68,44): error C2143: erreur de syntaxe : absence de ';' avant '++'
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-  
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(68,43): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-  
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(68,43): error C2086: 'int x' : redéfinition
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-      C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(68,18):
-      voir la déclaration de 'x'
-  
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(68,44): error C2059: erreur de syntaxe : '++'
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-  
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(68,46): error C2059: erreur de syntaxe : ')'
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-  
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(69,2): error C2143: erreur de syntaxe : absence de ';' avant '{'
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-  
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(69,2): error C2447: '{' : en-tête de fonction manquant (liste formelle à l'ancien format ?)
+C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(33,15): error C2065: 'rectangle' : identificateur non déclaré
   (compiler le fichier source 'JeuDeLaVie.cpp')
   
   Génération de code en cours...

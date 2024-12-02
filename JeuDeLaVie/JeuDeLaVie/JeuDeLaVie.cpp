@@ -4,6 +4,7 @@
 
 int main()
 {
+	int largeur, h;
 	std::cout << "Coucou" << std::endl;
 	Fenetre f;
 	return 0;
