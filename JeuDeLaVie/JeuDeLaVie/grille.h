@@ -1,32 +1,40 @@
 #pragma once
 #include <iostream>
+#include <vector>
 
 
 class Grille {
 public:
-    int setup_size(int coordonates) {
-        int size;
-        bool error_marker = false;
+    int l, h;
+    bool error_marker = false;
+
+    std::vector<short> grille_def() {
         while (!error_marker) {
-            if (coordonates == 0) {
-                std::cout << "Donnez la hauteur de la grille : ";
+            std::cout << "Donnez la hauteur de la grille : ";
+            std::cin >> h;
+            if (h != 0) {
+                break;
             }
-            else if (coordonates == 1) {
-                std::cout << "Donnez la largeur de la grille : ";
+            else {
+                std::cout << "La valeur doit etre un nombre positif !";
             }
-            std::cin >> size;
-            if (size > 0) {
-                return size;
-                error_marker = true;
+        }
+        while (!error_marker) {
+            std::cout << "Donnez la largeur de la grille : ";
+            std::cin >> l;
+            if (l != 0) {
+                break;
             }
             else {
                 std::cout << "La valeur doit être un nombre positif !";
             }
         }
+        std::vector<short> grille(l * h);
+
+        return grille;
+
     }
 
-    int nombre_de_cases = setup_size(0) * setup_size(1); //définition de la hauteur et largeur de la grille 
-    short grille[nombre_de_cases]; //définition d'une grille à une dimension basée sur les dimensions données par le user
 
 
     //int lignes, colonnes;
