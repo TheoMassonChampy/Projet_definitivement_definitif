@@ -9,7 +9,7 @@
 class Fenetre {
 public:
     Fenetre();
-
+    sf::Font font;
     void afficherGrille();
     void click(sf::Event::MouseButtonEvent mouseEvent);
 

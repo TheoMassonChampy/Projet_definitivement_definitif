@@ -4,14 +4,9 @@
 // Constructeur
 Fenetre::Fenetre() : window(sf::VideoMode(800, 600), "Jeu de la vie !") {
     // Chargement de la police
-    sf::Font arial;
-    std::string fontPath = "arial.ttf";  // Assurez-vous que le fichier est dans le même dossier
-    std::cout << "Chargement de la police depuis : " << fontPath << std::endl;
-
-    if (!arial.loadFromFile(fontPath)) {
-        std::cout << "ERREUR CHARGEMENT POLICE" << std::endl;
+    if (!font.loadFromFile("Halo Dek.ttf")) {
+        std::cout << "éRREUR CHARGEMENT POLICE" << std::endl;
     }
-
     // On peut récupérer la taille de la fenêtre ici si nécessaire
     sf::Vector2u size = window.getSize();
 }
