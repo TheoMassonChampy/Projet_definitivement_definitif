@@ -1,4 +1,9 @@
-﻿JeuDeLaVie.obj : error LNK2005: "public: __cdecl Fenetre::Fenetre(void)" (??0Fenetre@@QEAA@XZ) déjà défini(e) dans fenetre.obj
+﻿  JeuDeLaVie.cpp
+  fenetre.cpp
+  grille.cpp
+  jeu.cpp
+  Génération de code en cours...
+JeuDeLaVie.obj : error LNK2005: "public: __cdecl Fenetre::Fenetre(void)" (??0Fenetre@@QEAA@XZ) déjà défini(e) dans fenetre.obj
 JeuDeLaVie.obj : error LNK2005: "public: void __cdecl Fenetre::afficherGrille(void)" (?afficherGrille@Fenetre@@QEAAXXZ) déjà défini(e) dans fenetre.obj
 JeuDeLaVie.obj : error LNK2005: "public: void __cdecl Fenetre::click(struct sf::Event::MouseButtonEvent)" (?click@Fenetre@@QEAAXUMouseButtonEvent@Event@sf@@@Z) déjà défini(e) dans fenetre.obj
 JeuDeLaVie.obj : error LNK2005: "int lignes" (?lignes@@3HA) déjà défini(e) dans fenetre.obj
