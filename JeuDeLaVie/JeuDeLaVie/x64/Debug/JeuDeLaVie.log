@@ -1,2 +1,20 @@
-﻿  fenetre.cpp
+﻿  JeuDeLaVie.cpp
+C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\grille.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x110 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+  (compiler le fichier source 'JeuDeLaVie.cpp')
+  
+C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\grille.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x122 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+  (compiler le fichier source 'JeuDeLaVie.cpp')
+  
+C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\grille.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x16d et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+  (compiler le fichier source 'JeuDeLaVie.cpp')
+  
+C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\etat_case.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x45 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+  (compiler le fichier source 'JeuDeLaVie.cpp')
+  
+C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\etat_case.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x69 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+  (compiler le fichier source 'JeuDeLaVie.cpp')
+  
+C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\etat_case.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x95 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+  (compiler le fichier source 'JeuDeLaVie.cpp')
+  
   JeuDeLaVie.vcxproj -> C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\x64\Debug\JeuDeLaVie.exe
