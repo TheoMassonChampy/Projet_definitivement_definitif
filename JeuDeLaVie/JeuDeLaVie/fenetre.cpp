@@ -82,6 +82,5 @@ void Fenetre::click(sf::Event::MouseButtonEvent mouseEvent)
 				jeu.tour = EtatCase::MORT;
 			EtatJeu etat = jeu.checkFin();
 			}
-		}
 	}
 }
