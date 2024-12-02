@@ -28,7 +28,7 @@ void Fenetre::afficherGrille()
 			rectangle.setFillColor(sf::Color::Black);
 		}
 
-		window.draw(rectangle); 
+		window.draw(rectangle);
 	}
 }
 
