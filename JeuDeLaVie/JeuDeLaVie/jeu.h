@@ -3,5 +3,5 @@
 
 class Jeu {
 public:
-	Grille grille;
+	Grille grilledejeu;
 };

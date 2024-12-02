@@ -1,20 +1,21 @@
-#pragma once
-#include "jeu.h"
+#ifndef FENETRE_H
+#define FENETRE_H
+
 #include <SFML/Graphics.hpp>
+#include "grille.h"
+#include "etat_case.h"
+#include "jeu.h"
 
 class Fenetre {
-private:
-	sf::RectangleShape ligne_v_1;
-	sf::RectangleShape ligne_v_2;
-	sf::RectangleShape ligne_h_1;
-	sf::RectangleShape ligne_h_2;
-	sf::Font arial;
 public:
-	Jeu jeu;
-	sf::RenderWindow window;
+    Fenetre();
 
-	Fenetre();
+    void afficherGrille();
+    void click(sf::Event::MouseButtonEvent mouseEvent);
 
-	void click(sf::Event::MouseButtonEvent mouseEvent);
-	void afficherGrille();
+private:
+    sf::RenderWindow window;
+    Jeu jeu;
 };
+
+#endif  // FENETRE_H

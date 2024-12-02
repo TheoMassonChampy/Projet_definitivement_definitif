@@ -1,5 +1,5 @@
 #include <iostream>
-#include "fenetre.cpp"
+#include "fenetre.h"
 #include <stdio.h>
 
 int main()

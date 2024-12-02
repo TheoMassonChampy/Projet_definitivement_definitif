@@ -1,8 +1,2 @@
 ﻿  fenetre.cpp
-  grille.cpp
-C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(20,33): error C2039: 'taille_grille' n'est pas membre de 'Grille'
-      C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\grille.h(6,8):
-      voir la déclaration de 'Grille'
-  
-  jeu.cpp
-  Génération de code en cours...
+  JeuDeLaVie.vcxproj -> C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\x64\Debug\JeuDeLaVie.exe
