@@ -3,9 +3,10 @@
 
 // Constructeur
 Fenetre::Fenetre() : window(sf::VideoMode(800, 600), "Jeu de la vie !") {
+    std::cout << "1";
     // Chargement de la police
-    if (!font.loadFromFile("Halo Dek.ttf")) {
-        std::cout << "éRREUR CHARGEMENT POLICE" << std::endl;
+    if (!font.loadFromFile("C:\Windows\Fonts\Arial\arial.ttf")) {
+        std::cout << "ERREUR CHARGEMENT POLICE" << std::endl;
     }
     // On peut récupérer la taille de la fenêtre ici si nécessaire
     sf::Vector2u size = window.getSize();

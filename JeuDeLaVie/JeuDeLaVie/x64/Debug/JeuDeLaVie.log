@@ -1,6 +1,31 @@
 ﻿  fenetre.cpp
-  grille.cpp
-  jeu.cpp
-  JeuDeLaVie.cpp
-  Génération de code en cours...
-  JeuDeLaVie.vcxproj -> C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\x64\Debug\JeuDeLaVie.exe
+C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x119 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x159 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x15d et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x175 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x182 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x1c1 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x3ef et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x3fc et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\grille.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x110 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+  (compiler le fichier source 'fenetre.cpp')
+  
+C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\grille.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x122 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+  (compiler le fichier source 'fenetre.cpp')
+  
+C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\grille.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x16d et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+  (compiler le fichier source 'fenetre.cpp')
+  
+C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\etat_case.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x45 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+  (compiler le fichier source 'fenetre.cpp')
+  
+C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\etat_case.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x69 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+  (compiler le fichier source 'fenetre.cpp')
+  
+C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\etat_case.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x95 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+  (compiler le fichier source 'fenetre.cpp')
+  
+C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(8,28): warning C4129: « W » : séquence d’échappement de caractères non reconnue
+C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(8,28): warning C4129: « F » : séquence d’échappement de caractères non reconnue
+C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(8,28): warning C4129: « A » : séquence d’échappement de caractères non reconnue
+  JeuDeLaVie.vcxproj -> C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\x64\Debug\JeuDeLaVie.exe
