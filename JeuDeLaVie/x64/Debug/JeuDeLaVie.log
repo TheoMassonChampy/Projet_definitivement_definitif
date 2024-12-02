@@ -1,0 +1,6 @@
+﻿JeuDeLaVie.obj : error LNK2005: "public: __cdecl Fenetre::Fenetre(void)" (??0Fenetre@@QEAA@XZ) déjà défini(e) dans fenetre.obj
+JeuDeLaVie.obj : error LNK2005: "public: void __cdecl Fenetre::afficherGrille(void)" (?afficherGrille@Fenetre@@QEAAXXZ) déjà défini(e) dans fenetre.obj
+JeuDeLaVie.obj : error LNK2005: "public: void __cdecl Fenetre::click(struct sf::Event::MouseButtonEvent)" (?click@Fenetre@@QEAAXUMouseButtonEvent@Event@sf@@@Z) déjà défini(e) dans fenetre.obj
+JeuDeLaVie.obj : error LNK2005: "int lignes" (?lignes@@3HA) déjà défini(e) dans fenetre.obj
+JeuDeLaVie.obj : error LNK2005: "int colonnes" (?colonnes@@3HA) déjà défini(e) dans fenetre.obj
+C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\x64\Debug\JeuDeLaVie.exe : fatal error LNK1169: un ou plusieurs symboles définis à différentes reprises ont été rencontrés

@@ -3,9 +3,6 @@
 #include "etat_case.h"
 #include <iostream>
 
-int lignes = 3;
-int colonnes = 3;
-
 Fenetre::Fenetre() : window(sf::VideoMode(800, 600), "Jeu de la vie !") {
 
 	if (!arial.loadFromFile("arial.ttf")) {
