@@ -33,7 +33,9 @@ public:
         std::vector<EtatCase> grille;
         grille.resize(l * h, EtatCase::MORT);
 
-        return grille;
+        std::vector<int> tab_size = {l,h};
+
+        return [tab_size,grille];
     }
     
 
