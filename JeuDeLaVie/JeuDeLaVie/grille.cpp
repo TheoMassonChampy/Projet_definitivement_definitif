@@ -32,7 +32,7 @@ std::vector<EtatCase> Grille::grille_def() {
     grille.resize(largeur * hauteur, EtatCase::MORT);
     taille_grille = largeur * hauteur;
     for (int i = 0; i < taille_grille; i++) {
-        std::cout << "" ,grille[i];
+        std::cout << "", grille[i];
         std::cout << i << std::endl;
     }
 
@@ -40,18 +40,24 @@ std::vector<EtatCase> Grille::grille_def() {
 }
 
 std::vector<int> Grille::return_grille() {
+    grille[2] = EtatCase::VIVANT;
     std::vector<int> res;
     res.resize(Grille::taille_grille, 0);
-        for (int i = 0; i < Grille::taille_grille; i++) {
-            if (Grille::grille[i] == EtatCase::MORT)
-            {
-                res[i] = 0;
-            }
+    for (int i = 0; i < Grille::taille_grille; i++) {
+        if (Grille::grille[i] == EtatCase::MORT)
+        {
+            res[i] = 0;
+        }
 
-            else if (Grille::grille[i] == EtatCase::VIVANT)
-            {
-                res[i] = 1;
-            }
-        } //TODO à revoir
-        return res;
+        else if (Grille::grille[i] == EtatCase::VIVANT)
+        {
+            res[i] = 1;
+        }
+    } //TODO à revoir
+    std::cout << grille.size() << " " << res.size() << std::endl;
+    for (size_t i = 0; i < res.size(); i++) {
+        std::cout << res[i] << " ";
+    }
+    std::cout << std::endl;
+    return res;
 }
