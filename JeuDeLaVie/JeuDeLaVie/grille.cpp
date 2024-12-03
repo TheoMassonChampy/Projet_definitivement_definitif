@@ -1,6 +1,8 @@
 #include "grille.h"
 #include "etat_case.h"
 #include <fstream>
+#include <string>
+#include <iostream>
 
 // Définition du constructeur
 Grille::Grille() : largeur(0), hauteur(0), taille_grille(0) {
@@ -61,7 +63,11 @@ std::vector<int> Grille::return_grille() {
     return res;
 }
 
-//std::vector<EtatCase> Grille::Chargement_grille_fichier() {}
+/*std::vector<EtatCase> Grille::Chargement_grille_fichier() {
+    std::cout << "Faites entrer quand vous aurez complété le fichier 'file.txt' avec votre setup ..." << std::endl;
+    std::cin;
+    std::ifstream fichier("file.txt");
+}*/
 
 bool Grille::Sauvegarde_fichier() {
     return true;

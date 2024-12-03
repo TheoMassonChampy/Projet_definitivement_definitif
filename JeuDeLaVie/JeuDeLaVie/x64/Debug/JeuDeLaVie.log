@@ -1,64 +1,7 @@
-﻿  JeuDeLaVie.cpp
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\JeuDeLaVie.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x183 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\grille.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x195 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-  
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\grille.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x1a7 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-  
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\grille.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x201 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-  
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\etat_case.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x4a et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-  
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\etat_case.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x7c et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-  
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\etat_case.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x80 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-  
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\etat_case.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0xaa et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-  
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\etat_case.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0xd4 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-  (compiler le fichier source 'JeuDeLaVie.cpp')
-  
-  fenetre.cpp
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x1a1 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x1a5 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x1bd et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x1ca et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x209 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x438 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x445 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\grille.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x195 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-  (compiler le fichier source 'fenetre.cpp')
-  
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\grille.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x1a7 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-  (compiler le fichier source 'fenetre.cpp')
-  
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\grille.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x201 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-  (compiler le fichier source 'fenetre.cpp')
-  
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\etat_case.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x4a et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-  (compiler le fichier source 'fenetre.cpp')
-  
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\etat_case.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x7c et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-  (compiler le fichier source 'fenetre.cpp')
-  
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\etat_case.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x80 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-  (compiler le fichier source 'fenetre.cpp')
-  
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\etat_case.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0xaa et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-  (compiler le fichier source 'fenetre.cpp')
-  
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\etat_case.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0xd4 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-  (compiler le fichier source 'fenetre.cpp')
-  
-  grille.cpp
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\grille.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x47 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\grille.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x2d5 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+﻿  grille.cpp
+C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\grille.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x6f et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\grille.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x2fd et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\grille.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x704 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
 C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\grille.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x195 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
   (compiler le fichier source 'grille.cpp')
   
@@ -83,30 +26,4 @@ C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definit
 C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\etat_case.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0xd4 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
   (compiler le fichier source 'grille.cpp')
   
-  jeu.cpp
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\grille.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x195 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-  (compiler le fichier source 'jeu.cpp')
-  
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\grille.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x1a7 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-  (compiler le fichier source 'jeu.cpp')
-  
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\grille.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x201 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-  (compiler le fichier source 'jeu.cpp')
-  
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\etat_case.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x4a et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-  (compiler le fichier source 'jeu.cpp')
-  
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\etat_case.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x7c et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-  (compiler le fichier source 'jeu.cpp')
-  
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\etat_case.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x80 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-  (compiler le fichier source 'jeu.cpp')
-  
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\etat_case.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0xaa et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-  (compiler le fichier source 'jeu.cpp')
-  
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\etat_case.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0xd4 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-  (compiler le fichier source 'jeu.cpp')
-  
-  Génération de code en cours...
   JeuDeLaVie.vcxproj -> C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\x64\Debug\JeuDeLaVie.exe
