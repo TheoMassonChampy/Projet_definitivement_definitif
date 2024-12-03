@@ -15,6 +15,7 @@ public:
     std::vector<EtatCase> grille_def();
     std::vector<int> return_grille();
     std::vector<EtatCase> Chargement_grille_fichier();
+    bool Sauvegarde_fichier();
 
 
     // Déclaration de la méthode grille_def

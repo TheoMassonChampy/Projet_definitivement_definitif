@@ -32,16 +32,10 @@ std::vector<EtatCase> Grille::grille_def() {
     std::vector<EtatCase> grille;
     grille.resize(largeur * hauteur, EtatCase::MORT);
     taille_grille = largeur * hauteur;
-    for (int i = 0; i < taille_grille; i++) {
-        std::cout << "", grille[i];
-        std::cout << i << std::endl;
-    }
-
     return grille;
 }
 
 std::vector<int> Grille::return_grille() {
-    grille[2] = EtatCase::VIVANT;
     std::vector<int> res;
     res.resize(Grille::taille_grille, 0);
     for (int i = 0; i < Grille::taille_grille; i++) {
@@ -54,15 +48,21 @@ std::vector<int> Grille::return_grille() {
         {
             res[i] = 1;
         }
-    } //TODO à revoir
-    std::cout << grille.size() << " " << res.size() << std::endl;
-    for (size_t i = 0; i < res.size(); i++) {
-        std::cout << res[i] << " ";
     }
-    std::cout << std::endl;
+    int counter = 0;
+    for (int i = 1; i < hauteur + 1; i++) {
+        for (int j = 1; j < largeur + 1; j++) {
+            std::cout << res[counter] << " ";
+            counter += 1;
+        }
+        std::cout << std::endl;
+    }
+
     return res;
 }
 
-std::vector<EtatCase> Grille::Chargement_grille_fichier() {
+//std::vector<EtatCase> Grille::Chargement_grille_fichier() {}
 
+bool Grille::Sauvegarde_fichier() {
+    return true;
 }
