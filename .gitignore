@@ -1,0 +1,10 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/JeuDeLaVie/.vs/JeuDeLaVie/FileContentIndex/1fbefca5-b6c4-4492-9ec2-dffcd3dc88a1.vsidx
+/JeuDeLaVie/.vs/JeuDeLaVie/v17/Browse.VC.db
+/JeuDeLaVie/.vs/JeuDeLaVie/v17/Browse.VC.db-shm
+/JeuDeLaVie/.vs/JeuDeLaVie/v17/Browse.VC.db-wal
+/JeuDeLaVie/.vs/JeuDeLaVie/v17/Browse.VC.opendb
+/JeuDeLaVie/.vs/JeuDeLaVie/v17/ipch/AutoPCH/50279fd5d2337f53/JEUDELAVIE.ipch
