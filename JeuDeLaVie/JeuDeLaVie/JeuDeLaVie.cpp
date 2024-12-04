@@ -9,7 +9,7 @@ int main()
 	std::cin >> answer;
 	if (answer == 1) {
 		Jeu instance_jeu;
-		instance_jeu.manager_console();
+		instance_jeu.manager_console(); 
 	}
 	else if (answer == 2) {
 		Fenetre f;
