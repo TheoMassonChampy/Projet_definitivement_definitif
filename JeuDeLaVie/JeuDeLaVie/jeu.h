@@ -6,7 +6,8 @@ public:
 	Grille grilledejeu;
 
 	void manager_console() {
-		grilledejeu.return_grille();
+		grilledejeu.Chargement_grille_fichier();
+		//grilledejeu.return_grille();
 	}
 	
 };
