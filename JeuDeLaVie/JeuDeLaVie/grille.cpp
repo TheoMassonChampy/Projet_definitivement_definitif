@@ -66,8 +66,28 @@ void Grille::affiche_grille(std::vector<int> res) {
     }
 }
 
-std::vector<EtatCase> Grille::nombre_vers_grille(std::string valeurs) {
-    std::vector<EtatCase> res;
+std::vector<EtatCase> nombre_vers_grille(const std::string& input) {
+    // Définition d'un vecteur d'EtatCase
+    std::vector<EtatCase> etats;
+
+    // Parcourir chaque caractère du string
+    for (char c : input) {
+        if (c == '0') {
+            etats.push_back(EtatCase::MORT);   // Ajouter MORT si c'est '0'
+        }
+        else if (c == '1') {
+            etats.push_back(EtatCase::VIVANT); // Ajouter VIVANT si c'est '1'
+        }
+        else {
+            // Gestion des caractères non valides (facultatif)
+            std::cerr << "Caractère invalide rencontré : " << c << '\n';
+        }
+    }
+
+    return etats;
+}
+    
+    /*std::vector<EtatCase> res;
     res.resize(valeurs.length(), 0);
     for (int i = 0; i < valeurs.size(); i++) {
         if (strcmp(valeurs[i],"0") == 0)
@@ -80,7 +100,7 @@ std::vector<EtatCase> Grille::nombre_vers_grille(std::string valeurs) {
             res[i] = EtatCase::VIVANT;
         }
     }
-    return res;
+    return res;*/
 
 // for string delimiter
 std::vector<std::string> split(std::string s, std::string delimiter) {
@@ -110,9 +130,10 @@ std::vector<EtatCase> Grille::Chargement_grille_fichier() {
         }
         std::vector<std::string> parse_result = split(lignes, "|");
         //for (auto i : parse_result) std::cout << i << std::endl;
-        
+        resultat = nombre_vers_grille(parse_result[0]);
     }
     else { std::cout << "Impossible de lire le fichier ..." << std::endl; }
+    
     return resultat;
 }
 
