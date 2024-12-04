@@ -3,10 +3,11 @@
 
 // Constructeur
 Fenetre::Fenetre() : window(sf::VideoMode(800, 600), "Jeu de la vie !") {
-    // Chargement de la police
-    if (!font.loadFromFile("Halo Dek.ttf")) {
-        std::cout << "éRREUR CHARGEMENT POLICE" << std::endl;
-    }
+    // Chargement de la police                                          TODO !!!! MAKE THIS WORK ....
+    //font.loadFromFile("/arial.ttf");
+    //if (!font.loadFromFile("/arial.ttf")) {
+    //    std::cout << "ERREUR CHARGEMENT POLICE" << std::endl;
+    //}
     // On peut récupérer la taille de la fenêtre ici si nécessaire
     sf::Vector2u size = window.getSize();
 }
@@ -14,7 +15,7 @@ Fenetre::Fenetre() : window(sf::VideoMode(800, 600), "Jeu de la vie !") {
 // Méthode pour afficher la grille
 void Fenetre::afficherGrille() {
     sf::Vector2u size = window.getSize();
-    sf::RectangleShape rectangle(sf::Vector2f(50.0f, 150.0f));
+    sf::RectangleShape rectangle(sf::Vector2f(50.0f, 150.0f)); 
 
     for (int x = 0; x < jeu.grilledejeu.taille_grille; x++) {
         if (jeu.grilledejeu.grilledejeu[x] == EtatCase::VIVANT) {
