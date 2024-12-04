@@ -2,13 +2,33 @@
 #include <iostream>
 
 // Constructeur
-Fenetre::Fenetre() : window(sf::VideoMode(800, 600), "Jeu de la vie !") {
-    // Chargement de la police                                          TODO !!!! MAKE THIS WORK ....
-    //font.loadFromFile("/arial.ttf");
-    //if (!font.loadFromFile("/arial.ttf")) {
-    //    std::cout << "ERREUR CHARGEMENT POLICE" << std::endl;
-    //}
-    // On peut récupérer la taille de la fenêtre ici si nécessaire
+Fenetre::Fenetre() : window(sf::VideoMode(1200, 900), "Jeu de la vie !") {
+{
+    sf::RectangleShape rectangle(sf::Vector2f(20, 900));
+    rectangle.setPosition(350, 0);
+    rectangle.setFillColor(sf::Color::Black);
+
+    sf::CircleShape shape(50);
+    shape.setFillColor(sf::Color::Green);
+
+    while (window.isOpen())
+    {
+        sf::Event event;
+        while (window.pollEvent(event))
+        {
+            if (event.type == sf::Event::Closed)
+                window.close();
+        }
+
+        window.clear(sf::Color::White);
+        window.draw(rectangle);
+
+        window.display();
+    }
+
+    return 0;
+}
+
     sf::Vector2u size = window.getSize();
 }
 
@@ -38,3 +58,4 @@ void Fenetre::click(sf::Event::MouseButtonEvent mouseEvent) {
         std::cout << x << "," << y << std::endl;
     }
 }
+
