@@ -2,21 +2,13 @@
 # Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
 ################################################################################
 
-/JeuDeLaVie/.vs/JeuDeLaVie/FileContentIndex
-/JeuDeLaVie/.vs/JeuDeLaVie/v17/ipch/AutoPCH
 /JeuDeLaVie/.vs/JeuDeLaVie/v17/Browse.VC.db
 /JeuDeLaVie/.vs/JeuDeLaVie/v17/Browse.VC.db-shm
 /JeuDeLaVie/.vs/JeuDeLaVie/v17/Browse.VC.db-wal
 /JeuDeLaVie/.vs/JeuDeLaVie/v17/Browse.VC.opendb
-/JeuDeLaVie/.vs/JeuDeLaVie/v17/.suo
-/JeuDeLaVie/.vs/JeuDeLaVie/v17/DocumentLayout.json
-/JeuDeLaVie/.vs/JeuDeLaVie/v17/DocumentLayout.backup.json
-/JeuDeLaVie/.vs/JeuDeLaVie/v17/DocumentLayout.backup.json
-/JeuDeLaVie/.vs/JeuDeLaVie/FileContentIndex/1e4322b5-e750-45a5-bb08-27a657a73ead.vsidx
-/JeuDeLaVie/.vs/JeuDeLaVie/FileContentIndex/636b0cd6-cc48-4ea2-ba83-74a285b23b8e.vsidx
-/JeuDeLaVie/.vs/JeuDeLaVie/FileContentIndex/b285575c-aa30-4622-b694-37410a9e766a.vsidx
-/JeuDeLaVie/.vs/JeuDeLaVie/v17/ipch/AutoPCH/bf4222d8cb96b693/JEUDELAVIE.ipch
-/JeuDeLaVie/.vs/JeuDeLaVie/v17/ipch/AutoPCH/f49971017a051b26/FENETRE.ipch
-/JeuDeLaVie/.vs/JeuDeLaVie/v17/ipch/AutoPCH/9fe33211154bbfd8/GRILLE.ipch
-/JeuDeLaVie/.vs/JeuDeLaVie/v17/ipch/AutoPCH/8f81e0e84ba56773/JEU.ipch
 /JeuDeLaVie/.vs/JeuDeLaVie/FileContentIndex/24ed38af-400f-410a-8fc3-3b9dd4ba0b4c.vsidx
+/JeuDeLaVie/.vs/JeuDeLaVie/FileContentIndex/b285575c-aa30-4622-b694-37410a9e766a.vsidx
+/JeuDeLaVie/.vs/JeuDeLaVie/FileContentIndex/c80dfc64-07ae-4f04-a2c9-086293ff879e.vsidx
+/JeuDeLaVie/.vs/JeuDeLaVie/FileContentIndex/8bc93717-8d77-4d96-b9f0-40d0d641ceb7.vsidx
+/JeuDeLaVie/.vs/JeuDeLaVie/v17/ipch/AutoPCH/50279fd5d2337f53/JEUDELAVIE.ipch
+/JeuDeLaVie/.vs/JeuDeLaVie/FileContentIndex/4d605cde-9a13-4f54-ac72-c362b5d002b8.vsidx
