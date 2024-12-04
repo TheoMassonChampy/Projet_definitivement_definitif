@@ -1,7 +1,7 @@
 #pragma once
 enum class EtatCase {
-	BLOC_VIVANT,    // La case est bloquée positivement
-	BLOC_MORT,		// La case est bloquée négativement
-	MORT,			// La case est occupée par "0"
-	VIVANT			// La case est occupée par "1"
+	BLOC_VIVANT,    // La case est bloquÃ©e positivement
+	BLOC_MORT,		// La case est bloquÃ©e nÃ©gativement
+	MORT,			// La case est occupÃ©e par "0"
+	VIVANT			// La case est occupÃ©e par "1"
 };

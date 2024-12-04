@@ -20,10 +20,10 @@ public:
     std::vector<EtatCase> Chargement_grille_fichier();
     bool Sauvegarde_fichier();
 
-    // Déclaration de la méthode grille_def
+    // DÃ©claration de la mÃ©thode grille_def
     std::vector<EtatCase> grille = grille_def();
 
-    Grille();  // Déclaration du constructeur
+    Grille();  // DÃ©claration du constructeur
 
 };
 
