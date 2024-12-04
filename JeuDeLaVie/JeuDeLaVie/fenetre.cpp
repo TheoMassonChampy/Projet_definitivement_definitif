@@ -8,11 +8,11 @@ Fenetre::Fenetre() : window(sf::VideoMode(800, 600), "Jeu de la vie !") {
     //if (!font.loadFromFile("/arial.ttf")) {
     //    std::cout << "ERREUR CHARGEMENT POLICE" << std::endl;
     //}
-    // On peut récupérer la taille de la fenêtre ici si nécessaire
+    // On peut rÃ©cupÃ©rer la taille de la fenÃªtre ici si nÃ©cessaire
     sf::Vector2u size = window.getSize();
 }
 
-// Méthode pour afficher la grille
+// MÃ©thode pour afficher la grille
 void Fenetre::afficherGrille() {
     sf::Vector2u size = window.getSize();
     sf::RectangleShape rectangle(sf::Vector2f(50.0f, 150.0f)); 
@@ -29,7 +29,7 @@ void Fenetre::afficherGrille() {
     }
 }
 
-// Méthode pour gérer les clics de souris
+// MÃ©thode pour gÃ©rer les clics de souris
 void Fenetre::click(sf::Event::MouseButtonEvent mouseEvent) {
     if (mouseEvent.button == sf::Mouse::Left) {
         sf::Vector2u size = window.getSize();

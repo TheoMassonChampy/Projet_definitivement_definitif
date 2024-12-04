@@ -15,7 +15,7 @@ int main()
 		Fenetre f;
 	}
 	else {
-		std::cout << "Entrée impossible ... fermeture du programme ...";
+		std::cout << "EntrÃ©e impossible ... fermeture du programme ...";
 	}
 	return 0;
 }

@@ -4,7 +4,7 @@
 #include <string>
 #include <iostream>
 
-// Définition du constructeur
+// DÃ©finition du constructeur
 Grille::Grille() : largeur(0), hauteur(0), taille_grille(0) {
 
 }
@@ -27,7 +27,7 @@ std::vector<EtatCase> Grille::grille_def() {
             break;
         }
         else {
-            std::cout << "La valeur doit être un nombre positif !" << std::endl;
+            std::cout << "La valeur doit Ãªtre un nombre positif !" << std::endl;
         }
     }
     // Initialisation de la grille avec des cases MORT
@@ -100,7 +100,7 @@ std::vector<std::string> split(std::string s, std::string delimiter) {
 
 std::vector<EtatCase> Grille::Chargement_grille_fichier() {
     std::vector<EtatCase> resultat;
-    std::cout << "Faites entrer quand vous aurez complété le fichier 'file.txt' avec votre setup ..." << std::endl;
+    std::cout << "Faites entrer quand vous aurez complÃ©tÃ© le fichier 'file.txt' avec votre setup ..." << std::endl;
     std::cin;
     std::ifstream fichier("file.txt");
     if (fichier) {
