@@ -1,5 +1,5 @@
 ﻿  fenetre.cpp
-  grille.cpp
+  JeuDeLaVie.cpp
 C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(17,13): error C2534: 'Fenetre' : le constructeur ne peut pas retourner de valeur
       C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.h(9,7):
       voir la déclaration de 'Fenetre'
@@ -12,11 +12,9 @@ C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\f
       C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(5,74):
       cette ligne comporte un '{' qui n'est pas équilibré
   
-C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(68,15): error C2601: 'Fenetre::click' : définitions de fonctions locales non conformes
+C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(69,15): error C2601: 'Fenetre::click' : définitions de fonctions locales non conformes
       C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(5,74):
       cette ligne comporte un '{' qui n'est pas équilibré
   
 C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(5,74): error C1075: '{' : jeton correspondant introuvable
-  jeu.cpp
-  JeuDeLaVie.cpp
   Génération de code en cours...
