@@ -1,4 +1,5 @@
 ﻿  fenetre.cpp
+  jeu.cpp
 C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(17,13): error C2534: 'Fenetre' : le constructeur ne peut pas retourner de valeur
       C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.h(9,7):
       voir la déclaration de 'Fenetre'
@@ -16,14 +17,18 @@ C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\f
       cette ligne comporte un '{' qui n'est pas équilibré
   
 C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(5,74): error C1075: '{' : jeton correspondant introuvable
-  grille.cpp
-  jeu.cpp
 C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\jeu.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x86 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\jeu.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x1ff et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\jeu.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x3a1 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\jeu.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x532 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\jeu.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x6c5 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\jeu.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x9a5 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\jeu.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x9b5 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\jeu.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x2d5 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\jeu.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x54d et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\jeu.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x7b4 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\jeu.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0xa62 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\jeu.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0xa85 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\jeu.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0xe4c et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\jeu.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0xe59 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\jeu.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x1215 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\jeu.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x1f41 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\jeu.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x1f51 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\jeu.cpp(76,74): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+C:\Users\theom\Downloads\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\jeu.cpp(79,76): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
   JeuDeLaVie.cpp
   Génération de code en cours...
