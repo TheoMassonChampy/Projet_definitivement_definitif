@@ -134,7 +134,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="fenetre.cpp" />
     <ClCompile Include="grille.cpp" />
     <ClCompile Include="jeu.cpp" />
     <ClCompile Include="JeuDeLaVie.cpp" />

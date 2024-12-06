@@ -18,9 +18,6 @@
     <ClCompile Include="JeuDeLaVie.cpp">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
-    <ClCompile Include="fenetre.cpp">
-      <Filter>Fichiers sources</Filter>
-    </ClCompile>
     <ClCompile Include="grille.cpp">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
