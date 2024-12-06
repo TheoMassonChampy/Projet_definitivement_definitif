@@ -1,36 +1,4 @@
-﻿  game_screen.cpp
-\source\repos\test_fenetre\test_fenetre\game_screen.cpp(1,1): error C1083: Impossible d'ouvrir le fichier source : '..\..\..\..\..\..\source\repos\test_fenetre\test_fenetre\game_screen.cpp' : No such file or directory
-  (compiler le fichier source '/source/repos/test_fenetre/test_fenetre/game_screen.cpp')
-  
-  main_menu.cpp
-\source\repos\test_fenetre\test_fenetre\main_menu.cpp(1,1): error C1083: Impossible d'ouvrir le fichier source : '..\..\..\..\..\..\source\repos\test_fenetre\test_fenetre\main_menu.cpp' : No such file or directory
-  (compiler le fichier source '/source/repos/test_fenetre/test_fenetre/main_menu.cpp')
-  
-  fenetre.cpp
-\fenetre.cpp(1,1): error C1083: Impossible d'ouvrir le fichier source : 'fenetre.cpp' : No such file or directory
-  (compiler le fichier source '/fenetre.cpp')
-  
-  grille.cpp
-  jeu.cpp
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\jeu.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x86 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\jeu.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x2d5 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\jeu.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x54d et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\jeu.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x7b4 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\jeu.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0xa62 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\jeu.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0xa85 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\jeu.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0xe4c et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\jeu.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0xe59 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\jeu.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x1215 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\jeu.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x1f41 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\jeu.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x1f51 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\jeu.cpp(76,74): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\jeu.cpp(79,76): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
-  JeuDeLaVie.cpp
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\JeuDeLaVie.cpp(12,3): error C2065: 'Jeu' : identificateur non déclaré
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\JeuDeLaVie.cpp(12,7): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'instance_jeu'
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\JeuDeLaVie.cpp(12,7): error C2065: 'instance_jeu' : identificateur non déclaré
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\JeuDeLaVie.cpp(13,3): error C2065: 'instance_jeu' : identificateur non déclaré
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\JeuDeLaVie.cpp(16,3): error C2065: 'Fenetre' : identificateur non déclaré
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\JeuDeLaVie.cpp(16,11): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'f'
-C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\JeuDeLaVie.cpp(16,11): error C2065: 'f' : identificateur non déclaré
-  Génération de code en cours...
+﻿  main_menu.cpp
+C:\Users\Utilisateur\source\repos\test_fenetre\test_fenetre\main_menu.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x237 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\Utilisateur\source\repos\test_fenetre\test_fenetre\main_menu.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x240 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+  JeuDeLaVie.vcxproj -> C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\x64\Debug\JeuDeLaVie.exe
