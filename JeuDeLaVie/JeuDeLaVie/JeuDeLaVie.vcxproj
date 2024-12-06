@@ -134,12 +134,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\..\..\..\source\repos\test_fenetre\test_fenetre\game_screen.cpp" />
+    <ClCompile Include="..\..\..\..\..\..\source\repos\test_fenetre\test_fenetre\main_menu.cpp" />
     <ClCompile Include="fenetre.cpp" />
     <ClCompile Include="grille.cpp" />
     <ClCompile Include="jeu.cpp" />
     <ClCompile Include="JeuDeLaVie.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\..\source\repos\test_fenetre\test_fenetre\game_screen.h" />
+    <ClInclude Include="..\..\..\..\..\..\source\repos\test_fenetre\test_fenetre\main_menu.h" />
     <ClInclude Include="etat_case.h" />
     <ClInclude Include="Fenetre.h" />
     <ClInclude Include="grille.h" />

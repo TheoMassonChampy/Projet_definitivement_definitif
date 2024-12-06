@@ -1,4 +1,25 @@
-﻿  fenetre.cpp
+﻿  main_menu.cpp
+C:\Users\Utilisateur\source\repos\test_fenetre\test_fenetre\main_menu.h(6,10): error C1083: Impossible d'ouvrir le fichier include : 'jeu.h' : No such file or directory
+  fenetre.cpp
+  (compiler le fichier source '../../../../../../source/repos/test_fenetre/test_fenetre/main_menu.cpp')
+  
+C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(17,13): error C2534: 'Fenetre' : le constructeur ne peut pas retourner de valeur
+      C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.h(9,7):
+      voir la déclaration de 'Fenetre'
+  
+C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(17,13): error C2562: 'Fenetre::Fenetre' : fonction 'void' retournant une valeur
+      C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(5,10):
+      voir la déclaration de 'Fenetre::Fenetre'
+  
+C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(51,15): error C2601: 'Fenetre::afficherGrille' : définitions de fonctions locales non conformes
+      C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(5,74):
+      cette ligne comporte un '{' qui n'est pas équilibré
+  
+C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(68,15): error C2601: 'Fenetre::click' : définitions de fonctions locales non conformes
+      C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(5,74):
+      cette ligne comporte un '{' qui n'est pas équilibré
+  
+C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\fenetre.cpp(5,74): error C1075: '{' : jeton correspondant introuvable
   grille.cpp
 C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\grille.cpp(71,9): error C2665: 'std::vector<EtatCase,std::allocator<EtatCase>>::resize' : aucune fonction surchargée n’a pu convertir tous les types d’arguments.
       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector(1589,23):
@@ -51,4 +72,11 @@ C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_p
 C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\grille.cpp(69,71): error C1075: '{' : jeton correspondant introuvable
   jeu.cpp
   JeuDeLaVie.cpp
+C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\JeuDeLaVie.cpp(12,3): error C2065: 'Jeu' : identificateur non déclaré
+C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\JeuDeLaVie.cpp(12,7): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'instance_jeu'
+C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\JeuDeLaVie.cpp(12,7): error C2065: 'instance_jeu' : identificateur non déclaré
+C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\JeuDeLaVie.cpp(13,3): error C2065: 'instance_jeu' : identificateur non déclaré
+C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\JeuDeLaVie.cpp(16,3): error C2065: 'Fenetre' : identificateur non déclaré
+C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\JeuDeLaVie.cpp(16,11): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'f'
+C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\JeuDeLaVie\JeuDeLaVie.cpp(16,11): error C2065: 'f' : identificateur non déclaré
   Génération de code en cours...

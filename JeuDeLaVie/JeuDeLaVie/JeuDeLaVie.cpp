@@ -1,5 +1,6 @@
 #include <iostream>
-#include "fenetre.h"
+#include "game_screen.h"
+#include "main_menu.h"
 #include <stdio.h>
 
 int main()
@@ -17,5 +18,39 @@ int main()
 	else {
 		std::cout << "Entrée impossible ... fermeture du programme ...";
 	}
-	return 0;
+    sf::RenderWindow window(sf::VideoMode(1200, 900), "Fenêtre test");
+
+    MainMenu menu(window);
+    GameScreen gameScreen(window);
+
+    bool inMenu = true;
+
+    while (window.isOpen()) {
+        sf::Event event;
+        while (window.pollEvent(event)) {
+            if (event.type == sf::Event::Closed) {
+                window.close();
+            }
+
+            if (inMenu) {
+                if (menu.handleEvent(event, window)) {
+                    inMenu = false;
+                }
+            }
+            else {
+                if (gameScreen.handleEvent(event, window)) {
+                    inMenu = true;
+                }
+            }
+        }
+
+        if (inMenu) {
+            menu.draw(window);
+        }
+        else {
+            gameScreen.draw(window);
+        }
+    }
+
+    return 0;
 }
