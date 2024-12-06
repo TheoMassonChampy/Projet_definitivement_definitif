@@ -10,7 +10,7 @@ Grille::Grille() : largeur(0), hauteur(0), taille_grille(0) {
 }
 
 std::vector<EtatCase> Grille::grille_def() {
-    while (true) {
+    /*while (true) {
         std::cout << "Donnez la hauteur de la grille : ";
         std::cin >> hauteur;
         if (hauteur != 0) {
@@ -33,7 +33,7 @@ std::vector<EtatCase> Grille::grille_def() {
     // Initialisation de la grille avec des cases MORT
     std::vector<EtatCase> grille;
     grille.resize(largeur * hauteur, EtatCase::MORT);
-    taille_grille = largeur * hauteur;
+    taille_grille = largeur * hauteur;*/
     return grille;
 }
 
@@ -102,7 +102,7 @@ std::vector<EtatCase> nombre_vers_grille(const std::string& input) {
     }
     return res;*/
 
-// for string delimiter
+
 std::vector<std::string> split(std::string s, std::string delimiter) {
     size_t pos_start = 0, pos_end, delim_len = delimiter.length();
     std::string token;
@@ -130,7 +130,10 @@ std::vector<EtatCase> Grille::Chargement_grille_fichier() {
         }
         std::vector<std::string> parse_result = split(lignes, "|");
         //for (auto i : parse_result) std::cout << i << std::endl;
-        resultat = nombre_vers_grille(parse_result[0]);
+        largeur = std::stoi(parse_result[1]);
+        hauteur = std::stoi(parse_result[2]);
+        grille.resize(hauteur * largeur);
+        grille = nombre_vers_grille(parse_result[0]);
     }
     else { std::cout << "Impossible de lire le fichier ..." << std::endl; }
     

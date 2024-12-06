@@ -49,6 +49,7 @@ Fenetre::Fenetre() : window(sf::VideoMode(1200, 900), "Jeu de la vie !") {
 
 // Méthode pour afficher la grille
 void Fenetre::afficherGrille() {
+    
     sf::Vector2u size = window.getSize();
     sf::RectangleShape rectangle(sf::Vector2f(50.0f, 150.0f)); 
 
