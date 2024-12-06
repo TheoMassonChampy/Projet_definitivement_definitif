@@ -10,7 +10,7 @@ Grille::Grille() : largeur(0), hauteur(0), taille_grille(0) {
 }
 
 std::vector<EtatCase> Grille::grille_def() {
-    /*while (true) {
+    while (true) {
         std::cout << "Donnez la hauteur de la grille : ";
         std::cin >> hauteur;
         if (hauteur != 0) {
@@ -33,7 +33,7 @@ std::vector<EtatCase> Grille::grille_def() {
     // Initialisation de la grille avec des cases MORT
     std::vector<EtatCase> grille;
     grille.resize(largeur * hauteur, EtatCase::MORT);
-    taille_grille = largeur * hauteur;*/
+    taille_grille = largeur * hauteur;
     return grille;
 }
 
@@ -66,7 +66,7 @@ void Grille::affiche_grille(std::vector<int> res) {
     }
 }
 
-std::vector<EtatCase> nombre_vers_grille(const std::string& input) {
+std::vector<EtatCase> Grille::nombre_vers_grille(const std::string& input) {
     // Définition d'un vecteur d'EtatCase
     std::vector<EtatCase> etats;
 
