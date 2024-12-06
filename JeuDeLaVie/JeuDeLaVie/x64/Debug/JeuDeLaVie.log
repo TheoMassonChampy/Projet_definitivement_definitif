@@ -1,4 +1,25 @@
-﻿  main_menu.cpp
-C:\Users\Utilisateur\source\repos\test_fenetre\test_fenetre\main_menu.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x237 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-C:\Users\Utilisateur\source\repos\test_fenetre\test_fenetre\main_menu.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x240 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
-  JeuDeLaVie.vcxproj -> C:\Users\Utilisateur\OneDrive - Association Cesi Viacesi mail\Documents\projet_poo\Projet_definitivement_definitif\JeuDeLaVie\x64\Debug\JeuDeLaVie.exe
+﻿  game_screen.cpp
+C:\Users\theom\OneDrive\Professionnel\CESI\A2\source\repos\test_fenetre\test_fenetre\game_screen.cpp(11,57): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+C:\Users\theom\OneDrive\Professionnel\CESI\A2\source\repos\test_fenetre\test_fenetre\game_screen.cpp(11,57): warning C4244:         with
+C:\Users\theom\OneDrive\Professionnel\CESI\A2\source\repos\test_fenetre\test_fenetre\game_screen.cpp(11,57): warning C4244:         [
+C:\Users\theom\OneDrive\Professionnel\CESI\A2\source\repos\test_fenetre\test_fenetre\game_screen.cpp(11,57): warning C4244:             T=float
+C:\Users\theom\OneDrive\Professionnel\CESI\A2\source\repos\test_fenetre\test_fenetre\game_screen.cpp(11,57): warning C4244:         ]
+C:\Users\theom\OneDrive\Professionnel\CESI\A2\source\repos\test_fenetre\test_fenetre\game_screen.cpp(103,73): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+C:\Users\theom\OneDrive\Professionnel\CESI\A2\source\repos\test_fenetre\test_fenetre\game_screen.cpp(103,73): warning C4244:         with
+C:\Users\theom\OneDrive\Professionnel\CESI\A2\source\repos\test_fenetre\test_fenetre\game_screen.cpp(103,73): warning C4244:         [
+C:\Users\theom\OneDrive\Professionnel\CESI\A2\source\repos\test_fenetre\test_fenetre\game_screen.cpp(103,73): warning C4244:             T=float
+C:\Users\theom\OneDrive\Professionnel\CESI\A2\source\repos\test_fenetre\test_fenetre\game_screen.cpp(103,73): warning C4244:         ]
+C:\Users\theom\OneDrive\Professionnel\CESI\A2\source\repos\test_fenetre\test_fenetre\game_screen.cpp(103,59): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+C:\Users\theom\OneDrive\Professionnel\CESI\A2\source\repos\test_fenetre\test_fenetre\game_screen.cpp(103,59): warning C4244:         with
+C:\Users\theom\OneDrive\Professionnel\CESI\A2\source\repos\test_fenetre\test_fenetre\game_screen.cpp(103,59): warning C4244:         [
+C:\Users\theom\OneDrive\Professionnel\CESI\A2\source\repos\test_fenetre\test_fenetre\game_screen.cpp(103,59): warning C4244:             T=float
+C:\Users\theom\OneDrive\Professionnel\CESI\A2\source\repos\test_fenetre\test_fenetre\game_screen.cpp(103,59): warning C4244:         ]
+C:\Users\theom\OneDrive\Professionnel\CESI\A2\source\repos\test_fenetre\test_fenetre\game_screen.cpp(104,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\theom\OneDrive\Professionnel\CESI\A2\source\repos\test_fenetre\test_fenetre\game_screen.cpp(104,34): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\theom\OneDrive\Professionnel\CESI\A2\source\repos\test_fenetre\test_fenetre\game_screen.cpp(130,14): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\theom\OneDrive\Professionnel\CESI\A2\source\repos\test_fenetre\test_fenetre\game_screen.cpp(131,14): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  main_menu.cpp
+  JeuDeLaVie.cpp
+  Génération de code en cours...
+  LINK : C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\x64\Debug\JeuDeLaVie.exe introuvable ou non généré par la dernière édition de liens incrémentielle ; édition de liens complète en cours
+  JeuDeLaVie.vcxproj -> C:\Users\theom\OneDrive\Professionnel\CESI\A2\POO\Vrai_projet_def\Projet_definitivement_definitif\Projet_definitivement_definitif\JeuDeLaVie\x64\Debug\JeuDeLaVie.exe
