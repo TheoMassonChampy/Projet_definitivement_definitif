@@ -141,5 +141,23 @@ std::vector<EtatCase> Grille::Chargement_grille_fichier() {
 }
 
 bool Grille::Sauvegarde_fichier() {
+    std::string const f("file_out.txt");
+    std::ofstream flux(f.c_str());
+
+    flux.open(f);
+
+    if (!flux.is_open()) {
+        std::cerr << "Erreur : impossible d'ouvrir le fichier ..." << std::endl;
+        return 1;
+    }
+    
+    //std::getline(grille_vers_nombre(), f);
+
+    flux << f << std::endl;
+
+    // Fermer le fichier
+    flux.close();
+
+    std::cout << "Texte écrit dans le fichier 'output.txt'." << std::endl;
     return true;
 }
