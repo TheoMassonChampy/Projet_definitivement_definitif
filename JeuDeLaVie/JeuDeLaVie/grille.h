@@ -16,7 +16,7 @@ public:
     std::vector<EtatCase> grille_def();
     std::vector<int> grille_vers_nombre();
     void affiche_grille(std::vector<int> res);
-    std::vector<EtatCase> nombre_vers_grille(std::string valeurs);
+    std::vector<EtatCase> nombre_vers_grille(const std::string& input);
     std::vector<EtatCase> Chargement_grille_fichier();
     bool Sauvegarde_fichier();
 
